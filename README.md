@@ -81,8 +81,6 @@ This all runs on your device. Crashes are real and they get caught, so don't ass
 
 ## License
 
-PAE, AAI and `aai_pkg.h` are free software under the GNU General Public License, version 2 or (at your option) any later version. See `LICENSE`.
+PAE, AAI and `aai_pkg.h` are free software under the GNU General Public License, version 2. See `LICENSE`.
 
 Copyright (C) 2026 sekid
-
-PAE links against Keystone, which has its own license. Check it before you redistribute binaries.
